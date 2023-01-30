@@ -29,13 +29,6 @@
       }
     },
     {
-      "label": "CI/CD",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "Kubernetes",
       "image": {
         "src": "../../images/mobile-phone.png",
@@ -51,6 +44,20 @@
     },
     {
       "label": "CloudFormation",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Jenkins",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CircleCI",
       "image": {
         "src": "../../images/high-voltage.png",
         "alt": ""

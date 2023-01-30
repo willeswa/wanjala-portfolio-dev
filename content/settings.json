@@ -6,11 +6,10 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "An Android Developer who is passionate about Cloud DevOps.",
     "author": "Willies Wanjala",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "avatar": "../content/images/profile-dark.jpeg",
+    "bio": "Willies is an Android Engineer who is also facinated by Cloud DevOps. When he is not tinkering with code, he loves spending time with his daughter.",
     "social": {
       "github": "https://github.com/willeswa",
-      "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/godfrey-wanjala-14601a73/",
       "mail": "mailto:gwiliez@gmail.com"
     }

@@ -1,9 +1,8 @@
 {
   "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "email": "gwiliez@mail.com",
   "image": {
-    "src": "../../images/favicon.png",
+    "src": "../../images/profile-dark.jpeg",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {
